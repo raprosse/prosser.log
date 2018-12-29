@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: "Prosser.log()", // <title>
   shortSiteTitle: "Prosser.log() - Ryan Prosser", // <title> ending for posts and pages
-  siteDescription: "My inner monologue, for debugging purposes only.",
+  siteDescription: "My inner monologue. For debugging purposes only.",
   siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
   // pathPrefix: "",
   siteImage: "preview.jpg",
@@ -13,7 +13,7 @@ module.exports = {
 
   /* info */
   headerTitle: "Ryan Prosser",
-  headerSubTitle: "My inner monologue for debugging purposes only.",
+  headerSubTitle: "My inner monologue. For debugging purposes only.",
 
   /* manifest.json */
   manifestName: "Prosser.log()",
