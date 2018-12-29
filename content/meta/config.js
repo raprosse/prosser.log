@@ -18,8 +18,8 @@ module.exports = {
   /* manifest.json */
   manifestName: "Prosser.log()",
   manifestShortName: "Prosser.log()", // max 12 characters
-  manifestStartUrl: "/",
-  // manifestStartUrl: "/index.html",
+  // manifestStartUrl: "/",
+  manifestStartUrl: "/index.html",
   manifestBackgroundColor: "black",
   manifestThemeColor: "black",
   manifestDisplay: "standalone",
